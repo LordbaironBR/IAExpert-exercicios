@@ -1,6 +1,6 @@
-# Introducao-python-IAExpress
-
+<h1> Objetivo com: RedesNeurais-e-DeepLearning-IAExpert </h1>
 Nesse repositorio, será colocodo uma série de listas de exercicios feitas por mim, durante a trajetoria do curso para redes neurais e <strong>DeepLearning</strong> em <strong>Python</strong> fornecido pela IA Expert.
+Pretendo realizar toda a trilha de aprendizagem até ser capaz de gerar totalmente do zero uma rede neural capaz de solucionar problemas e ser inserida em projetos futuros.
 
 <h2> Utilitarios:</h2>
 <ul>
