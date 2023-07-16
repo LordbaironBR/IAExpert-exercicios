@@ -3,6 +3,15 @@ Nesse repositorio, será colocodo uma série de listas de exercicios feitas por 
 Pretendo realizar toda a trilha de aprendizagem até ser capaz de gerar totalmente do zero uma rede neural capaz de solucionar problemas e ser inserida em projetos futuros.
 
 <h2> Utilitarios:</h2>
+
+<h4>Skill utilizadas no processo: </h4>
+<ul>
+  <li> Python </li>
+  <li> PyTorch </li>
+  <li> TensorFlow </li>
+</ul
+
+<h4>Softwares e IDE`s</h4>
 <ul>
   <li> Pycharm </li>
   <li> Spider 5 </li>
