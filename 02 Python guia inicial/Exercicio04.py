@@ -7,3 +7,22 @@ passando por um cálculo da média aritmética. Após a média calculada, devemo
 – Se o aluno pegou exame, deve ser lida a nota do exame. Se a nota do exame for maior do que 6.0, está aprovado, senão; está reprovado
 Bom trabalho,
 """
+
+loop = bool(True)
+
+while loop:
+    m1 = float(input("Nota 1: "))
+    m2 = float(input("Nota 2:"))
+    m3 = float(input("Nota 3"))
+    media = (m1 + m2 + m3) / 3
+    if media >= 0 and media <= 4:
+        print('Aluno Reprovado')
+        loop = False
+    elif media > 4 and media < 6:
+        print('Aluno de recuperacao')
+        loop = False
+    elif media > 6 and media <= 10:
+        print('Aluno Aprovado')
+        loop = False
+    else:
+        print('Nota invalida')
