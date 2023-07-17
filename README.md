@@ -31,9 +31,11 @@ Pretendo realizar toda a trilha de aprendizagem até ser capaz de gerar totalmen
 </ul>
 
 <h2> Certificados </h2>
-<h5> Lógica de programação </h5>
-![Logica de programacao](https://github.com/LordbaironBR/RedesNeurais-e-DeepLearning-IAExpert/assets/72357996/70c757ca-e700-4bd6-bb15-ce104ab4e23d)
-<h5> Programação em Python</h5>
-![Programacao em Python](https://github.com/LordbaironBR/RedesNeurais-e-DeepLearning-IAExpert/assets/72357996/5d68c64e-c405-4a74-9c13-c741818d963e)
+
+![Logica de programacao](https://github.com/LordbaironBR/RedesNeurais-e-DeepLearning-IAExpert/assets/72357996/2257922d-98b1-43fc-be84-efc3efb02a0e)
+
+![Programacao em Python](https://github.com/LordbaironBR/RedesNeurais-e-DeepLearning-IAExpert/assets/72357996/a24843bb-b5ff-4491-b20d-b504a24e7d53)
+
+
 
 
