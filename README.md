@@ -29,3 +29,11 @@ Pretendo realizar toda a trilha de aprendizagem até ser capaz de gerar totalmen
   <li> <strong> Redes Neurais Artificiais </strong> </li>
   <li> <strong> Deep Learning com Python de A à Z: </strong> O Curso Completo </li>
 </ul>
+
+<h2> Certificados </h2>
+<h5> Lógica de programação </h5>
+![Logica de programacao](https://github.com/LordbaironBR/RedesNeurais-e-DeepLearning-IAExpert/assets/72357996/70c757ca-e700-4bd6-bb15-ce104ab4e23d)
+<h5> Programação em Python</h5>
+![Programacao em Python](https://github.com/LordbaironBR/RedesNeurais-e-DeepLearning-IAExpert/assets/72357996/5d68c64e-c405-4a74-9c13-c741818d963e)
+
+
