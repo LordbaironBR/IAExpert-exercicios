@@ -27,7 +27,7 @@ Pretendo realizar toda a trilha de aprendizagem até ser capaz de gerar totalmen
 <h2> Cursos em andamento </h2>
 <ul>
   <li> <strong> Redes Neurais Artificiais </strong> </li>
-  <li> <strong> Deep Learning com Python de A à Z: </strong> O Curso Completo </li>
+  <li> <strong> Assistentes Virtuais em Python: </strong> O Guia para Iniciantes  </li>
 </ul>
 
 <h2> Certificados </h2>
